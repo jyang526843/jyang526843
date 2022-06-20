@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Jin Yang!👨🏻‍
+- I'm Jin Yang! 😄
 - I am an incoming Assistant Professor in the Department of Aerospace Engineering & Engineering Mechanics at UT-Austin!
 - I earned my PhD degree from Caltech ME under the supervision of Prof. [Kaushik Bhattacharya](https://mechmat.caltech.edu/). Currently, I am a postdoc working at the University of Wisconsin-Madison ME department (Postdoc advisor: Prof. [Christian Franck](https://www.franck.engr.wisc.edu/) )
 - My research areas include solid mechanics, experimental mechanics, digital image/volume correlation, laser induced inertial cavitation in soft matter (material's behavior at ultra-high strain rates).
