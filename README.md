@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Jin Yang! 😄
 
-- I am an incoming Assistant Professor in the Department of Aerospace Engineering & Engineering Mechanics at UT-Austin!
-- I earned my PhD degree from Caltech ME under the supervision of Prof. [Kaushik Bhattacharya](https://mechmat.caltech.edu/). Currently, I am a postdoc working at the University of Wisconsin-Madison ME department (Postdoc advisor: Prof. [Christian Franck](https://www.franck.engr.wisc.edu/) )
+- I am an Assistant Professor in the Department of Aerospace Engineering & Engineering Mechanics at UT-Austin!
+- I earned my PhD degree from Caltech ME under the supervision of Prof. [Kaushik Bhattacharya](https://mechmat.caltech.edu/). I was a postdoc working at the University of Wisconsin-Madison ME department (Postdoc advisor: Prof. [Christian Franck](https://www.franck.engr.wisc.edu/) )
 - My research areas include solid mechanics, experimental mechanics, digital image/volume correlation, laser induced inertial cavitation in soft matter (material's behavior at ultra-high strain rates).
 - We develop and maintain several open source libraries and solvers, more on that here!  🖥️ 
-- If you want to work with us, check out [my personal website](https://sites.google.com/wisc.edu/jyang/)!  📫 
-- Feel free to [reach out](mailto:jyang526@wisc.edu) to me if you have any cool ideas! 
+- If you want to work with us, check out [my personal website](https://sites.utexas.edu/yang/)!  📫 
+- Feel free to [reach out](mailto:jin.yang@austin.utexas.edu) to me if you have any cool ideas! 
 
 <!--
 **jyang526843/jyang526843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
