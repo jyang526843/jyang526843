@@ -14,6 +14,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=2D_ALDIC&layout=compact&theme=vision-friendly-dark)](https://github.com/jyang526843/2D_ALDIC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=2D_FE_Global_DIC&layout=compact&theme=vision-friendly-dark)](https://github.com/jyang526843/2D_FE_Global_DIC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranckLab&repo=ALDVC&layout=compact&theme=vision-friendly-dark)](https://github.com/FranckLab/ALDVC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranckLab&repo=SerialTrack&layout=compact&theme=vision-friendly-dark)](https://github.com/FranckLab/SerialTrack)
+
 
 <!--
 **jyang526843/jyang526843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
