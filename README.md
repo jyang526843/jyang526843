@@ -7,9 +7,10 @@
 - If you want to work with us, check out [my personal website](https://sites.utexas.edu/yang/)!  📫 
 - Feel free to [reach out](mailto:jin.yang@austin.utexas.edu) to me if you have any cool ideas! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyang526843&show_icons=true&count_private=true&hide=prs&theme=merko)](https://github.com/jyang526843/)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyang526843&show_icons=true&count_private=true&hide=prs&theme=merko)](https://github.com/jyang526843/)
+-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=2D_ALDIC&theme=vision-friendly-dark)](https://github.com/jyang526843/2D_ALDIC)
 
 <!--
 **jyang526843/jyang526843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
