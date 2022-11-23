@@ -19,8 +19,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranckLab&repo=ALDVC&layout=compact&theme=vision-friendly-dark)](https://github.com/FranckLab/ALDVC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyang526843&repo=SerialTrack&layout=compact&theme=vision-friendly-dark)](https://github.com/jyang526843/SerialTrack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InertialMicrocavitationRheometry&repo=IMR_simple&layout=compact&theme=vision-friendly-dark)](https://github.com/InertialMicrocavitationRheometry/IMR_simple)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InertialMicrocavitationRheometry&repo=IMR_simple&layout=compact&theme=vision-friendly-dark)](https://github.com/FranckLab/STAQ-DIC)
+ 
 <!--
 **jyang526843/jyang526843** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
