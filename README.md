@@ -4,7 +4,7 @@
 - I earned my PhD degree from Caltech ME under the supervision of Prof. [Kaushik Bhattacharya](https://mechmat.caltech.edu/). I was a postdoc working at the University of Wisconsin-Madison ME department (Postdoc advisor: Prof. [Christian Franck](https://www.franck.engr.wisc.edu/) )
 - My research areas include solid mechanics, experimental mechanics, digital image/volume correlation, laser induced inertial cavitation in soft matter (material's behavior at ultra-high strain rates).
 - We develop and maintain several open source libraries and solvers, more on that here!  🖥️ 
-- If you want to work with us, check out [my personal website](https://sites.utexas.edu/yang/)!  📫 
+- If you want to work with us, check out [our research group website](https://sites.utexas.edu/yang/)!  📫 
 - Feel free to [reach out](mailto:jin.yang@austin.utexas.edu) to me if you have any cool ideas! 
 
 ### Github stats
